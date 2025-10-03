@@ -1,0 +1,7 @@
+pair,t_stat,p_t_two_sided,p_t_one_sided_a_less_b,p_t_one_sided_sig_bonf,mw_U,p_mw_a_less_b
+Random vs FrontToBack,-382.7146521687751,0.0,0.0,True,0.0,0.0
+Random vs BackToFront,176.32312891042145,0.0,1.0,False,1000000.0,1.0
+Random vs BlocksK2,209.2964309005585,0.0,1.0,False,1000000.0,1.0
+FrontToBack vs BackToFront,461.93758725597297,0.0,1.0,False,1000000.0,1.0
+FrontToBack vs BlocksK2,472.66892175634456,0.0,1.0,False,1000000.0,1.0
+BackToFront vs BlocksK2,56.770528106812314,0.0,1.0,False,983183.0,1.0

@@ -1,0 +1,1 @@
+ANOVA F=180844.0399, p=0, eta_squared=0.9927

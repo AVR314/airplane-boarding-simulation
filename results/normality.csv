@@ -1,0 +1,5 @@
+method,test,stat,pvalue
+BlocksK2,shapiro_or_dagostino,0.987000570661195,9.427046808743699e-08
+BackToFront,shapiro_or_dagostino,0.9592339727008358,4.466294737673461e-16
+Random,shapiro_or_dagostino,0.9856532031385301,2.4552361334060397e-08
+FrontToBack,shapiro_or_dagostino,0.9974948038425145,0.12865398946514967

@@ -1,0 +1,5 @@
+method,mean,half_width,ci_low,ci_high
+BlocksK2,16.107,0.073,16.034,16.181
+BackToFront,21.275,0.163,21.112,21.438
+Random,62.444,0.428,62.016,62.872
+FrontToBack,328.209,1.294,326.916,329.503
